@@ -1,5 +1,5 @@
 # Donut-Box
 
-Simple Donut Box that was created only with ProBuilder.
+Simple Donut Box that was created with ProBuilder.
 
 ![](Hnet.com-image.gif)
